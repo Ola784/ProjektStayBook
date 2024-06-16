@@ -1,0 +1,364 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.WebAPI\\SaleKiosk.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Application\\SaleKiosk.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Application\\SaleKiosk.Application.csproj",
+        "projectName": "SaleKiosk.Application",
+        "projectPath": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Application\\SaleKiosk.Application.csproj",
+        "packagesPath": "C:\\Users\\olaes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\olaes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Domain\\SaleKiosk.Domain.csproj": {
+                "projectPath": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Domain\\SaleKiosk.Domain.csproj"
+              },
+              "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.SharedKernel\\SaleKiosk.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.SharedKernel\\SaleKiosk.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Domain\\SaleKiosk.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Domain\\SaleKiosk.Domain.csproj",
+        "projectName": "SaleKiosk.Domain",
+        "projectPath": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Domain\\SaleKiosk.Domain.csproj",
+        "packagesPath": "C:\\Users\\olaes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\olaes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Infrastructure\\SaleKiosk.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Infrastructure\\SaleKiosk.Infrastructure.csproj",
+        "projectName": "SaleKiosk.Infrastructure",
+        "projectPath": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Infrastructure\\SaleKiosk.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\olaes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\olaes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Application\\SaleKiosk.Application.csproj": {
+                "projectPath": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Application\\SaleKiosk.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.SharedKernel\\SaleKiosk.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.SharedKernel\\SaleKiosk.SharedKernel.csproj",
+        "projectName": "SaleKiosk.SharedKernel",
+        "projectPath": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.SharedKernel\\SaleKiosk.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\olaes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\olaes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.WebAPI\\SaleKiosk.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.WebAPI\\SaleKiosk.WebAPI.csproj",
+        "projectName": "SaleKiosk.WebAPI",
+        "projectPath": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.WebAPI\\SaleKiosk.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\olaes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\olaes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Application\\SaleKiosk.Application.csproj": {
+                "projectPath": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Application\\SaleKiosk.Application.csproj"
+              },
+              "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Infrastructure\\SaleKiosk.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Infrastructure\\SaleKiosk.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

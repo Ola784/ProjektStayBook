@@ -1,0 +1,146 @@
+﻿@page "/cart"
+@inject ICartService _cartService
+@inject NavigationManager _navigationManager
+@inject IOrderService _orderService
+@inject NotificationService _notificationService
+
+<PageTitle>Shopping cart</PageTitle>
+<h3>Shopping cart</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Image</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Count</th>
+            <th>Amount</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var c in _cart)
+        {
+            <tr>
+                <td>
+                    <img src="@c.Hotel.ImageUrl" width="64" />
+                </td>
+                <td>@c.Hotel.Name</td>
+                <td>@c.Hotel.Description</td>
+                <td>@c.Hotel.UnitPrice</td>
+                <td>
+                    <EditForm Model="@c">
+                        <p>
+                            <InputNumber @bind-Value=@c.Count readonly />
+                            <button class="btn bg-secondary" @onclick=@(() => Increment(c.Hotel.Id, 1))>
+                                <span class="oi oi-plus"></span>
+                            </button>
+                            <button class="btn bg-secondary" @onclick=@(() => Decrement(c.Hotel.Id, 1))>
+                                <span class="oi oi-minus"></span>
+                            </button>
+                            <button class="btn bg-danger" @onclick=@(() => Decrement(c.Hotel.Id, c.Count))>
+                                <span class="oi oi-trash"></span>
+                            </button>
+                        </p>
+                    </EditForm>
+                </td>
+                <td>@((c.Count * c.Hotel.UnitPrice).ToString("c"))</td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td><b>Total:</b></td>
+            <td colspan="3" style="font-weight:bold;">@_total.ToString("c")</td>
+            <td>
+                <button class="btn bg-primary" @onclick="@(()=>SubmitOrder())">
+                    Submit order
+                </button>
+            </td>
+        </tr>
+    </tfoot>
+</table>
+
+@code {
+    private List<CartItem> _cart = new List<CartItem>();
+    private decimal _total = 0;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _cart = await _cartService.GetCart();
+        CalculateTotal();
+    }
+
+    private void CalculateTotal()
+    {
+        _total = 0;
+        foreach (var c in _cart)
+        {
+            _total += c.Count * c.Hotel.UnitPrice;
+        }
+    }
+
+    private async Task Decrement(int id, int count)
+    {
+        // find cart item by product id
+        var item = _cart.FirstOrDefault(c => c.Hotel.Id == id);
+        if (item != null)
+        {
+            // prepare cart item to decrement
+            CartItem ci = new CartItem()
+                {
+                    Hotel = item.Hotel,
+                    Count = count
+                };
+
+            // decrement cart item in local storage
+            await _cartService.Decrement(ci);
+
+            // re-read cart & total
+            _cart = await _cartService.GetCart();
+            CalculateTotal();
+        }
+    }
+
+    private async Task Increment(int id, int count)
+    {
+        // find cart item by product id
+        var item = _cart.FirstOrDefault(c => c.Hotel.Id == id);
+        if (item != null)
+        {
+            // prepare cart item to decrement
+            CartItem ci = new CartItem()
+                {
+                    Hotel = item.Hotel,
+                    Count = count
+                };
+
+            // decrement cart item in local storage
+            await _cartService.Increment(ci);
+
+            // re-read cart & total
+            _cart = await _cartService.GetCart();
+            CalculateTotal();
+        }
+    }
+
+    private async Task SubmitOrder()
+    {
+        await _orderService.SubmitOrder(_cart);
+        await _cartService.DeleteCart();
+
+        var notificationMessage = new NotificationMessage
+            {
+                Severity = NotificationSeverity.Info,
+                Summary = "Info",
+                Detail = "Zamówienie zostało złożone",
+                Duration = 4000,
+                CloseOnClick = true,
+                Payload = DateTime.Now
+            };
+
+        _notificationService.Notify(notificationMessage);
+
+        _navigationManager.NavigateTo("/hotel");
+    }
+}

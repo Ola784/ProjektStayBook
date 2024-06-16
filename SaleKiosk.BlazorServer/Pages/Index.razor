@@ -1,0 +1,142 @@
+﻿@page "/"
+
+<PageTitle>StayBook</PageTitle>
+
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-image: url('https://source.unsplash.com/1600x900/?hotel,travel');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        color: #333;
+    }
+
+    .overlay {
+        background: rgba(0, 0, 0, 0.5);
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 1;
+    }
+
+    .content {
+        position: relative;
+        z-index: 2;
+        color: white;
+    }
+
+    .jumbotron {
+        background: rgba(0, 0, 0, 0.5);
+        padding: 4rem 2rem;
+        border-radius: 10px;
+        color: white;
+    }
+
+    .features {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 2rem;
+    }
+
+    .feature-item {
+        text-align: center;
+        max-width: 200px;
+    }
+
+        .feature-item img {
+            width: 60px;
+            height: 60px;
+            margin-bottom: 1rem;
+        }
+
+    .cta-section {
+        background: rgba(255, 255, 255, 0.9);
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+        color: #333;
+    }
+
+    .featured-hotels-section h2 {
+        margin-top: 40px;
+        color: #fff;
+    }
+
+    .card {
+        border: none;
+        border-radius: 10px;
+        overflow: hidden;
+        transition: transform 0.3s;
+    }
+
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        .card img {
+            border-radius: 0;
+        }
+
+    .card-body {
+        background: rgba(255, 255, 255, 0.9);
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #004080;
+        }
+</style>
+
+<body>
+    <div class="overlay"></div>
+    <div class="content">
+        <div class="container">
+            <!-- Hero Section -->
+            <div class="jumbotron text-center">
+                <h1 class="display-4">Find Your Perfect Stay</h1>
+                <p class="lead">Discover the best hotels and vacation rentals at the best prices.</p>
+                <hr class="my-4">
+                <p>Start your journey with us today.</p>
+                <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+
+                <!-- Features Section -->
+                <div class="features">
+                    <div class="feature-item">
+                        <img src="https://img.icons8.com/ios-filled/50/ffffff/todo-list.png" alt="Wide Selection">
+                        <h5>Wide Selection</h5>
+                        <p>Choose from thousands of hotels worldwide.</p>
+                    </div>
+                    <div class="feature-item">
+                        <img src="https://img.icons8.com/ios-filled/50/ffffff/best-seller.png" alt="Best Prices">
+                        <h5>Best Prices</h5>
+                        <p>Find the best deals and offers on your stays.</p>
+                    </div>
+                    <div class="feature-item">
+                        <img src="https://img.icons8.com/ios-filled/50/ffffff/customer-support.png" alt="24/7 Support">
+                        <h5>24/7 Support</h5>
+                        <p>We are here to help you anytime, anywhere.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- CTA Section -->
+            <div class="cta-section my-4">
+                <h2>Ready to start your adventure?</h2>
+                <p>Sign up now and receive exclusive deals and offers.</p>
+                <a class="btn btn-primary btn-lg" href="#" role="button">Sign Up</a>
+            </div>
+
+
+        </div>
+    </div>
+
+</body>

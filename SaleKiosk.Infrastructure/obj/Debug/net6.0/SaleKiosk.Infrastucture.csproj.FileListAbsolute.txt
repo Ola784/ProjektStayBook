@@ -1,0 +1,5 @@
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Infrastucture\obj\Debug\net6.0\SaleKiosk.Infrastucture.csproj.AssemblyReference.cache
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Infrastucture\obj\Debug\net6.0\SaleKiosk.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Infrastucture\obj\Debug\net6.0\SaleKiosk.Infrastucture.AssemblyInfoInputs.cache
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Infrastucture\obj\Debug\net6.0\SaleKiosk.Infrastucture.AssemblyInfo.cs
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Infrastucture\obj\Debug\net6.0\SaleKiosk.Infrastucture.csproj.CoreCompileInputs.cache

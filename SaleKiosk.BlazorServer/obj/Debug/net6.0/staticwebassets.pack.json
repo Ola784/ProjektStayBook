@@ -1,0 +1,133 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SaleKiosk.BlazorServer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SaleKiosk.BlazorServer.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\images\\hotel1.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\images\\hotel2.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\images\\hotel\\0900be87-5cf8-4a7f-98e8-ed9d60beea18.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\0900be87-5cf8-4a7f-98e8-ed9d60beea18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\images\\hotel\\11fbc723-eb3d-4eb6-8966-f8728bf2f456.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\11fbc723-eb3d-4eb6-8966-f8728bf2f456.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\images\\hotel\\490600f7-e3a4-473c-a061-d4e0d93c1a46.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\490600f7-e3a4-473c-a061-d4e0d93c1a46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\images\\hotel\\6e533063-62de-49aa-88c6-adfa820e0f91.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\6e533063-62de-49aa-88c6-adfa820e0f91.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\images\\hotel\\93daac5e-d713-45c0-a882-7554392e1c9f.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\93daac5e-d713-45c0-a882-7554392e1c9f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\images\\hotel\\ba11371b-6f7a-451d-9da1-58647b6ef527.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\ba11371b-6f7a-451d-9da1-58647b6ef527.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\images\\hotel\\c63f642d-c5fa-4888-a86d-98a72b992361.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\c63f642d-c5fa-4888-a86d-98a72b992361.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\images\\hotel\\e5ad3f63-b636-4f9d-aa0a-169c5911eba0.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\e5ad3f63-b636-4f9d-aa0a-169c5911eba0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\images\\hotel\\f6d9c4bb-3771-44f8-bcf0-bad5a3f61167.png",
+      "PackagePath": "staticwebassets\\images\\hotel\\f6d9c4bb-3771-44f8-bcf0-bad5a3f61167.png"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\images\\image2.jpg",
+      "PackagePath": "staticwebassets\\images\\image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\images\\image3.jpg",
+      "PackagePath": "staticwebassets\\images\\image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.BlazorServer\\wwwroot\\images\\no-image-icon.png",
+      "PackagePath": "staticwebassets\\images\\no-image-icon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SaleKiosk.BlazorServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SaleKiosk.BlazorServer.props",
+      "PackagePath": "build\\SaleKiosk.BlazorServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SaleKiosk.BlazorServer.props",
+      "PackagePath": "buildMultiTargeting\\SaleKiosk.BlazorServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SaleKiosk.BlazorServer.props",
+      "PackagePath": "buildTransitive\\SaleKiosk.BlazorServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

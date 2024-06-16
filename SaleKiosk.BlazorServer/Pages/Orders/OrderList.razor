@@ -1,0 +1,35 @@
+﻿@page "/order"
+@inject IOrderService _orderService
+@inject NavigationManager _navigationManager
+
+<PageTitle>Order list</PageTitle>
+<h3>Order list</h3>
+
+<RadzenDataGrid AllowFiltering="true" AllowColumnResize="true" AllowAlternatingRows="false" FilterMode="FilterMode.Advanced" AllowSorting="true" PageSize="5" AllowPaging="true" PagerHorizontalAlign="HorizontalAlign.Left" ShowPagingSummary="true" Data="@_orderList" ColumnWidth="300px" LogicalFilterOperator="LogicalFilterOperator.Or" SelectionMode="DataGridSelectionMode.Single">
+    <Columns>
+        <RadzenDataGridColumn Property="Id" Title="Id" Width="160px" />
+        <RadzenDataGridColumn Property="CreatedAt" Title="Created At" FormatString="{0:d}" Width="160px" />
+        <RadzenDataGridColumn Property="Status" Title="Status" Width="200px" />
+        <RadzenDataGridColumn Property="OrderTotal" Title="Total" Width="200px" />
+        <RadzenDataGridColumn Property="OrderID" Title="Order Details" Width="160px">
+            <Template Context="data">
+                <RadzenButton ButtonStyle="ButtonStyle.Info" Variant="Variant.Flat" Shade="Shade.Lighter" Icon="info" class="m-1" Click=@(() => OpenOrder(data.Id)) Text="Details" />
+            </Template>
+        </RadzenDataGridColumn>
+    </Columns>
+</RadzenDataGrid>
+
+@code {
+    private List<OrderDto> _orderList = new();
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        _orderList = _orderService.GetAll();
+    }
+
+    private void OpenOrder(int id)
+    {
+        _navigationManager.NavigateTo($"order/details/{id}");
+    }
+}

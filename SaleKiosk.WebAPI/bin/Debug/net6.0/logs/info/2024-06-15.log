@@ -1,0 +1,135 @@
+2024-06-15 11:47:04.8645|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 12:08:35.5703|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 14:57:52.1682|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 15:10:32.4422|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 15:39:55.2107|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 15:51:41.0143|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Dodano nowego usera z id = 3
+2024-06-15 15:52:00.5464|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 15:58:33.5695|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 15:59:01.1145|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Dodano nowego usera z id = 3
+2024-06-15 15:59:07.3197|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 16:14:44.8955|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 16:14:47.7121|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 16:14:58.9087|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 16:25:00.5549|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 16:30:13.1967|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Dodano nowego usera z id = 3
+2024-06-15 16:37:51.3719|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Dodano nowego usera z id = 3
+2024-06-15 16:37:56.3456|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 16:41:02.5822|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Dodano nowego usera z id = 3
+2024-06-15 16:41:07.8151|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 16:50:27.6817|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Dodano nowego usera z id = 2
+2024-06-15 16:50:34.5336|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 16:52:27.5425|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Usunieto usera z id = 1
+2024-06-15 16:52:33.0030|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 16:55:11.1925|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Dodano nowego usera z id = 2
+2024-06-15 16:55:16.3967|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 16:55:35.7749|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|User o id = 2
+2024-06-15 16:56:22.2170|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Zaktualizowano usera z id = 1
+2024-06-15 17:00:04.3888|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|User o id = 1
+2024-06-15 17:02:45.5854|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|User o id = 1
+2024-06-15 18:11:42.5364|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 18:11:56.3790|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 18:12:11.7149|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 18:12:26.8694|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 18:16:10.1525|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 18:21:54.7727|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 19:21:17.8072|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 19:24:36.9875|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 19:26:40.5306|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 19:29:07.5649|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:14:34.2382|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:17:03.3248|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:19:39.3797|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:20:12.8067|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:26:57.3687|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:28:37.5749|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:29:05.2907|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:29:45.6414|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:29:54.7648|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:36:29.2878|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:39:18.7762|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:39:24.8043|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:39:37.1153|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Dodano nowego usera z id = 2
+2024-06-15 20:40:43.9081|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:49:21.1694|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:49:40.5971|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:49:59.8101|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 20:49:59.9171|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Dodano nowego usera z id = 2
+2024-06-15 20:50:09.1254|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:52:01.3492|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 20:52:09.9869|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:52:12.7915|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:52:17.0495|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:52:18.2170|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:52:19.5347|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:52:30.6320|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:53:13.3937|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:53:14.6051|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 20:53:24.7462|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 20:57:48.4975|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:02:49.8751|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:07:08.2778|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:07:46.0968|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:09:48.3776|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:11:29.4865|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:13:52.5714|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:20:40.0917|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:20:40.4139|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:20:54.7814|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:21:03.2640|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:21:13.0916|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:21:16.7264|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:23:50.2728|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:24:45.6639|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:25:02.6474|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:25:11.4616|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:25:19.2561|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:25:45.1490|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:25:45.3381|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Dodano nowego usera z id = 2
+2024-06-15 21:26:03.2341|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:26:04.8024|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:26:18.3419|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:26:19.6094|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:26:20.9062|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:26:21.9589|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:26:24.1493|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:26:25.5363|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:26:26.8041|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:26:29.3034|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:26:38.0112|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:26:38.0112|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Dodano nowego usera z id = 3
+2024-06-15 21:26:44.7803|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:26:56.4536|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:27:10.8817|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:27:12.1490|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:27:27.7518|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:27:29.4035|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:27:29.8942|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:27:50.0770|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:27:51.1922|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:27:52.4539|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:27:53.1483|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:27:54.6277|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:27:55.8766|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:27:56.9766|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:27:58.9020|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:27:59.9854|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:28:01.8240|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:28:02.6374|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:28:03.8774|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:28:07.3241|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:28:12.8113|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:30:11.9447|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:30:13.0434|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:30:14.2380|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:30:17.0455|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:30:19.8062|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:30:21.2243|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:30:22.2031|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:31:19.1747|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:31:20.0292|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:31:21.1456|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników
+2024-06-15 21:31:21.7445|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:31:27.4034|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:37:12.3064|DEBUG|SaleKiosk.SharedKernel.Controllers.HotelController|Pobrano listę wszystkich hoteli
+2024-06-15 21:37:16.0258|DEBUG|SaleKiosk.WebAPI.Controllers.ReviewController|Pobrano listę wszystkich użytkowników

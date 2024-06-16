@@ -1,0 +1,1093 @@
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.exe
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.deps.json
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.runtimeconfig.json
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.pdb
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.AssemblyReference.cache
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfoInputs.cache
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfo.cs
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CoreCompileInputs.cache
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.SaleKiosk.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.SaleKiosk.WebAPI.props
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SaleKiosk.WebAPI.props
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SaleKiosk.WebAPI.props
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\scopedcss\bundle\SaleKiosk.WebAPI.styles.css
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CopyComplete
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\refint\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.genruntimeconfig.cache
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\obj\Debug\net6.0\ref\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.exe
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.deps.json
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.runtimeconfig.json
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.pdb
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.AssemblyReference.cache
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfoInputs.cache
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfo.cs
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CoreCompileInputs.cache
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.SaleKiosk.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.SaleKiosk.WebAPI.props
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SaleKiosk.WebAPI.props
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SaleKiosk.WebAPI.props
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\scopedcss\bundle\SaleKiosk.WebAPI.styles.css
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CopyComplete
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\refint\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.genruntimeconfig.cache
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\ref\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.exe
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.deps.json
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.runtimeconfig.json
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.pdb
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.AssemblyReference.cache
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfoInputs.cache
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfo.cs
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CoreCompileInputs.cache
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.SaleKiosk.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.SaleKiosk.WebAPI.props
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SaleKiosk.WebAPI.props
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SaleKiosk.WebAPI.props
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\scopedcss\bundle\SaleKiosk.WebAPI.styles.css
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CopyComplete
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\refint\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.genruntimeconfig.cache
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\ref\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.exe
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.deps.json
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.runtimeconfig.json
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.pdb
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.AssemblyReference.cache
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfoInputs.cache
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfo.cs
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CoreCompileInputs.cache
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.SaleKiosk.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.SaleKiosk.WebAPI.props
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SaleKiosk.WebAPI.props
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SaleKiosk.WebAPI.props
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\scopedcss\bundle\SaleKiosk.WebAPI.styles.css
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CopyComplete
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\refint\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.genruntimeconfig.cache
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\ref\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.exe
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.deps.json
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.runtimeconfig.json
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.pdb
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.AssemblyReference.cache
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfoInputs.cache
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfo.cs
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CoreCompileInputs.cache
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.SaleKiosk.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.SaleKiosk.WebAPI.props
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SaleKiosk.WebAPI.props
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SaleKiosk.WebAPI.props
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\scopedcss\bundle\SaleKiosk.WebAPI.styles.css
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CopyComplete
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\refint\SaleKiosk.WebAPI.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.genruntimeconfig.cache
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\ref\SaleKiosk.WebAPI.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.exe
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.deps.json
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.runtimeconfig.json
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.pdb
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.AssemblyReference.cache
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfoInputs.cache
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfo.cs
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.sourcelink.json
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.SaleKiosk.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.SaleKiosk.WebAPI.props
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SaleKiosk.WebAPI.props
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SaleKiosk.WebAPI.props
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\scopedcss\bundle\SaleKiosk.WebAPI.styles.css
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CopyComplete
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\refint\SaleKiosk.WebAPI.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.genruntimeconfig.cache
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\obj\Debug\net6.0\ref\SaleKiosk.WebAPI.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.exe
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.deps.json
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.runtimeconfig.json
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.pdb
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.sourcelink.json
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.SaleKiosk.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.SaleKiosk.WebAPI.props
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SaleKiosk.WebAPI.props
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SaleKiosk.WebAPI.props
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\scopedcss\bundle\SaleKiosk.WebAPI.styles.css
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CopyComplete
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\refint\SaleKiosk.WebAPI.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.genruntimeconfig.cache
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\ref\SaleKiosk.WebAPI.dll
+C:\Users\user\source\repos\Project_StayBook\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.exe
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.deps.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.runtimeconfig.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.AssemblyReference.cache
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfoInputs.cache
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfo.cs
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.sourcelink.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.SaleKiosk.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.SaleKiosk.WebAPI.props
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SaleKiosk.WebAPI.props
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SaleKiosk.WebAPI.props
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\scopedcss\bundle\SaleKiosk.WebAPI.styles.css
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CopyComplete
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\refint\SaleKiosk.WebAPI.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.genruntimeconfig.cache
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\ref\SaleKiosk.WebAPI.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.exe
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.deps.json
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.runtimeconfig.json
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfo.cs
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.sourcelink.json
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.SaleKiosk.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.SaleKiosk.WebAPI.props
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SaleKiosk.WebAPI.props
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SaleKiosk.WebAPI.props
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\scopedcss\bundle\SaleKiosk.WebAPI.styles.css
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CopyComplete
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\refint\SaleKiosk.WebAPI.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.genruntimeconfig.cache
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.WebAPI\obj\Debug\net6.0\ref\SaleKiosk.WebAPI.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.exe
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.deps.json
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.runtimeconfig.json
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfo.cs
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.SaleKiosk.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.SaleKiosk.WebAPI.props
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SaleKiosk.WebAPI.props
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SaleKiosk.WebAPI.props
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\scopedcss\bundle\SaleKiosk.WebAPI.styles.css
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CopyComplete
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\refint\SaleKiosk.WebAPI.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.genruntimeconfig.cache
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\ref\SaleKiosk.WebAPI.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.exe
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.deps.json
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.runtimeconfig.json
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.pdb
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.AssemblyReference.cache
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfoInputs.cache
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfo.cs
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CoreCompileInputs.cache
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.SaleKiosk.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.SaleKiosk.WebAPI.props
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SaleKiosk.WebAPI.props
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SaleKiosk.WebAPI.props
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\scopedcss\bundle\SaleKiosk.WebAPI.styles.css
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CopyComplete
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\refint\SaleKiosk.WebAPI.dll
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.genruntimeconfig.cache
+C:\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\ref\SaleKiosk.WebAPI.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.exe
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.deps.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.runtimeconfig.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Infrastructure.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.AssemblyReference.cache
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfoInputs.cache
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.AssemblyInfo.cs
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.sourcelink.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.SaleKiosk.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.SaleKiosk.WebAPI.props
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SaleKiosk.WebAPI.props
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SaleKiosk.WebAPI.props
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\scopedcss\bundle\SaleKiosk.WebAPI.styles.css
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.csproj.CopyComplete
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\refint\SaleKiosk.WebAPI.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\SaleKiosk.WebAPI.genruntimeconfig.cache
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.WebAPI\obj\Debug\net6.0\ref\SaleKiosk.WebAPI.dll

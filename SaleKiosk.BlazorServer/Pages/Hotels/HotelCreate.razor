@@ -1,0 +1,246 @@
+﻿@page "/hotel/create"
+@inject IHotelService _hotelService
+@inject NavigationManager _navigationManager
+@inject IFileService _fileService
+
+<PageTitle>Create new hotel</PageTitle>
+<h1>Create new hotel</h1>
+
+<EditForm Model="@_hotel" OnValidSubmit="@CreateHotel">
+    <FluentValidationValidator @ref="_fluentValidationValidator" DisableAssemblyScanning="@true" />
+    <ValidationSummary />
+    <div class="form-group">
+        <label>Name: </label>
+        <InputText @bind-Value="@_hotel.Name" class="form-control" />
+        <ValidationMessage For="@(() => _hotel.Name)" />
+    </div>
+    <div class="form-group">
+        <label>Description: </label>
+        <InputText @bind-Value="@_hotel.Desc" class="form-control" />
+        <ValidationMessage For="@(() => _hotel.Desc)" />
+    </div>
+    <div class="form-group">
+        <label>Price: </label>
+        <InputNumber @bind-Value="@_hotel.UnitPrice" class="form-control" />
+        <ValidationMessage For="@(() => _hotel.UnitPrice)" />
+    </div>
+    <div class="form-group">
+        <label>Image: </label>
+        <InputFile OnChange="HandleImageUpload"></InputFile>
+    </div>
+    <div class="form-group">
+        <img src="@_hotel.ImageUrl" width="240">
+    </div>
+    <br />
+    <div class="form-group">
+        <button class="btn btn-primary" type="submit">
+            <span class="oi oi-pencil"></span>
+            Create
+        </button>
+        <button @onclick="BackToList" class="btn btn-secondary" type="button">
+            <span class="oi oi-media-skip-backward"></span>
+            Back To List
+        </button>
+    </div>
+</EditForm>
+
+@code {
+    private CreateHotelDto _hotel = new();
+    private FluentValidationValidator? _fluentValidationValidator;
+
+    private void CreateHotel()
+    {
+        _hotelService.Create(_hotel);
+        _navigationManager.NavigateTo("/hotel");
+    }
+
+    private void BackToList()
+    {
+        _navigationManager.NavigateTo("/hotel");
+    }
+
+    private async Task HandleImageUpload(InputFileChangeEventArgs e)
+    {
+        if (e.GetMultipleFiles().Count > 0)
+        {
+            foreach (var file in e.GetMultipleFiles())
+            {
+                System.IO.FileInfo fileInfo = new System.IO.FileInfo(file.Name);
+                if (fileInfo.Extension.ToLower() == ".jpg" ||
+                    fileInfo.Extension.ToLower() == ".png" ||
+                    fileInfo.Extension.ToLower() == ".jpeg")
+                {
+                    _hotel.ImageUrl = await _fileService.UploadFile(file);
+                }
+                else
+                {
+                    //await _jsRuntime.ToastrError("Please select .jpg/.jpeg/.png file only");
+                    return;
+                }
+            }
+        }
+    }
+}
+
+
+@*@page "/hotel/create"
+@inject IHotelService _hotelService
+@inject NavigationManager _navigationManager
+
+<PageTitle>Create new hotel</PageTitle>
+<h1>Create new hotel</h1>
+
+<EditForm Model="@_hotel" OnValidSubmit="@CreateHotel">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <div class="form-group">
+        <label>Name: </label>
+        <InputText @bind-Value="@_hotel.Name" class="form-control" />
+        <ValidationMessage For="@(() => _hotel.Name)" />
+    </div>
+    <div class="form-group">
+        <label>Description: </label>
+        <InputText @bind-Value="@_hotel.Desc" class="form-control" />
+        <ValidationMessage For="@(() => _hotel.Desc)" />
+    </div>
+    <div class="form-group">
+        <label>Price: </label>
+        <InputNumber @bind-Value="@_hotel.UnitPrice" class="form-control" />
+        <ValidationMessage For="@(() => _hotel.UnitPrice)" />
+    </div>
+    <br />
+    <div class="form-group">
+        <button class="btn btn-primary" type="submit">
+            <span class="oi oi-pencil"></span>
+            Create hotel
+        </button>
+        <button @onclick="BackToList" class="btn btn-secondary" type="button">
+            <span class="oi oi-media-skip-backward"></span>
+            Back To List
+        </button>
+    </div>
+</EditForm>
+
+@code {
+    private CreateHotelDto _hotel = new();
+    
+    private void CreateHotel()
+    {
+        _hotelService.Create(_hotel);
+        _navigationManager.NavigateTo("/hotel");
+    }
+
+    private void BackToList()
+    {
+        _navigationManager.NavigateTo("/hotel");
+    }
+}
+*@
+
+
+@*@page "/hotel/create"
+@inject IHotelService _hotelService
+@inject NavigationManager _navigationManager
+
+
+<PageTitle>Create new hotel</PageTitle>
+<h1>Create new hotel</h1>
+
+<EditForm Model="@_hotel" OnSubmit="@CreateHotel">
+    <div class="form-group">
+        <label>Name: </label>
+        <InputText @bind-Value="@_hotel.Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Description: </label>
+        <InputText @bind-Value="@_hotel.Desc" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Price: </label>
+        <InputNumber @bind-Value="@_hotel.UnitPrice" class="form-control" />
+    </div>
+    <br/>
+    <div class="form-group">
+        <button class="btn btn-primary" type="submit">
+            <span class="oi oi-pencil"></span>
+            Create hotel
+        </button>
+        <button @onclick="BackToList" class="btn btn-secondary" type="button">
+            <span class="oi oi-media-skip-backward"></span>
+            Back To List
+        </button>
+    </div>
+</EditForm>
+
+@code {
+    private CreateHotelDto _hotel = new();
+
+    protected void CreateHotel()
+    {
+        _hotelService.Create(_hotel);
+        _navigationManager.NavigateTo("/hotel");
+    }
+
+    protected void BackToList()
+    {
+        _navigationManager.NavigateTo("/hotel");
+    }
+}
+*@
+
+
+@*@page "/hotel/create"
+@inject IHotelService _hotelService
+@inject NavigationManager _navigationManager
+
+
+<PageTitle>Create new hotel</PageTitle>
+<h1>Create new hotel</h1>
+
+<EditForm Model="@Hotel" OnValidSubmit="@CreateHotel">
+    <FluentValidationValidator @ref="_fluentValidationValidator" DisableAssemblyScanning="@true" />
+    <ValidationSummary />
+    <div class="form-group">
+        <label>Name: </label>
+        <InputText @bind-Value="@Hotel.Name" class="form-control" />
+        <ValidationMessage For="@(() => Hotel.Name)" />
+    </div>
+    <div class="form-group">
+        <label>Description: </label>
+        <InputText @bind-Value="@Hotel.Desc" class="form-control" />
+        <ValidationMessage For="@(() => Hotel.Desc)" />
+    </div>
+    <div class="form-group">
+        <label>Price: </label>
+        <InputNumber @bind-Value="@Hotel.UnitPrice" class="form-control" />
+        <ValidationMessage For="@(() => Hotel.UnitPrice)" />
+    </div>
+    <br />
+    <div class="form-group">
+        <button class="btn btn-primary" type="submit">
+            <span class="oi oi-pencil"></span>
+            Create hotel
+        </button>
+        <button @onclick="BackToList" class="btn btn-secondary" type="button">
+            <span class="oi oi-media-skip-backward"></span>
+            Back To List
+        </button>
+    </div>
+
+</EditForm>
+
+@code {
+    public CreateHotelDto Hotel = new();
+    private FluentValidationValidator? _fluentValidationValidator;
+
+    protected void CreateHotel()
+    {
+        _hotelService.Create(Hotel);
+        _navigationManager.NavigateTo("/hotel");
+    }
+
+    protected void BackToList()
+    {
+        _navigationManager.NavigateTo("/hotel");
+    }
+}*@

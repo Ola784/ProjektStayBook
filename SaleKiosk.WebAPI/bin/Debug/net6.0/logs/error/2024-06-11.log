@@ -1,0 +1,78 @@
+2024-06-11 16:47:25.8394|ERROR|Microsoft.EntityFrameworkCore.Database.Connection|An error occurred using the connection to database 'main' on server 'c:\DyskD\SaleKioskStudent.db'.
+2024-06-11 16:47:25.9712|ERROR|SaleKiosk.WebAPI.Program|Stopped program because of exception|Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 14: 'unable to open database file'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteConnectionInternal..ctor(SqliteConnectionStringBuilder connectionOptions, SqliteConnectionPool pool)
+   at Microsoft.Data.Sqlite.SqliteConnectionPool.GetConnection()
+   at Microsoft.Data.Sqlite.SqliteConnectionFactory.GetConnection(SqliteConnection outerConnection)
+   at Microsoft.Data.Sqlite.SqliteConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Sqlite.Storage.Internal.SqliteDatabaseCreator.Create()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabaseCreator.EnsureCreated()
+   at SaleKiosk.Infrastructure.DataSeeder.Seed() in C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Infrastructure\DataSeeder.cs:line 17
+   at Program.<Main>$(String[] args) in C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\Program.cs:line 96
+2024-06-11 16:48:49.4612|ERROR|Microsoft.EntityFrameworkCore.Database.Connection|An error occurred using the connection to database 'main' on server 'c:C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\database.db'.
+2024-06-11 16:48:49.5304|ERROR|SaleKiosk.WebAPI.Program|Stopped program because of exception|Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 14: 'unable to open database file'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteConnectionInternal..ctor(SqliteConnectionStringBuilder connectionOptions, SqliteConnectionPool pool)
+   at Microsoft.Data.Sqlite.SqliteConnectionPool.GetConnection()
+   at Microsoft.Data.Sqlite.SqliteConnectionFactory.GetConnection(SqliteConnection outerConnection)
+   at Microsoft.Data.Sqlite.SqliteConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Sqlite.Storage.Internal.SqliteDatabaseCreator.Create()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabaseCreator.EnsureCreated()
+   at SaleKiosk.Infrastructure.DataSeeder.Seed() in C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Infrastructure\DataSeeder.cs:line 17
+   at Program.<Main>$(String[] args) in C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\Program.cs:line 96
+2024-06-11 16:49:41.2741|ERROR|Microsoft.EntityFrameworkCore.Database.Connection|An error occurred using the connection to database 'main' on server 'c:C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\database2.db'.
+2024-06-11 16:49:41.7297|ERROR|SaleKiosk.WebAPI.Program|Stopped program because of exception|Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 14: 'unable to open database file'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteConnectionInternal..ctor(SqliteConnectionStringBuilder connectionOptions, SqliteConnectionPool pool)
+   at Microsoft.Data.Sqlite.SqliteConnectionPool.GetConnection()
+   at Microsoft.Data.Sqlite.SqliteConnectionFactory.GetConnection(SqliteConnection outerConnection)
+   at Microsoft.Data.Sqlite.SqliteConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Sqlite.Storage.Internal.SqliteDatabaseCreator.Create()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabaseCreator.EnsureCreated()
+   at SaleKiosk.Infrastructure.DataSeeder.Seed() in C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Infrastructure\DataSeeder.cs:line 17
+   at Program.<Main>$(String[] args) in C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\Program.cs:line 96
+2024-06-11 16:50:36.0627|ERROR|Microsoft.EntityFrameworkCore.Database.Connection|An error occurred using the connection to database 'main' on server 'c:\DyskD\SaleKioskStudent.db'.
+2024-06-11 16:50:36.1420|ERROR|SaleKiosk.WebAPI.Program|Stopped program because of exception|Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 14: 'unable to open database file'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteConnectionInternal..ctor(SqliteConnectionStringBuilder connectionOptions, SqliteConnectionPool pool)
+   at Microsoft.Data.Sqlite.SqliteConnectionPool.GetConnection()
+   at Microsoft.Data.Sqlite.SqliteConnectionFactory.GetConnection(SqliteConnection outerConnection)
+   at Microsoft.Data.Sqlite.SqliteConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Sqlite.Storage.Internal.SqliteDatabaseCreator.Create()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabaseCreator.EnsureCreated()
+   at SaleKiosk.Infrastructure.DataSeeder.Seed() in C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Infrastructure\DataSeeder.cs:line 17
+   at Program.<Main>$(String[] args) in C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\Program.cs:line 96
+2024-06-11 16:54:16.1727|ERROR|Microsoft.EntityFrameworkCore.Database.Connection|An error occurred using the connection to database 'main' on server 'c:\DyskD\SaleKioskStudent.db'.
+2024-06-11 16:54:16.2484|ERROR|SaleKiosk.WebAPI.Program|Stopped program because of exception|Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 14: 'unable to open database file'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteConnectionInternal..ctor(SqliteConnectionStringBuilder connectionOptions, SqliteConnectionPool pool)
+   at Microsoft.Data.Sqlite.SqliteConnectionPool.GetConnection()
+   at Microsoft.Data.Sqlite.SqliteConnectionFactory.GetConnection(SqliteConnection outerConnection)
+   at Microsoft.Data.Sqlite.SqliteConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Sqlite.Storage.Internal.SqliteDatabaseCreator.Create()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabaseCreator.EnsureCreated()
+   at SaleKiosk.Infrastructure.DataSeeder.Seed() in C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Infrastructure\DataSeeder.cs:line 17
+   at Program.<Main>$(String[] args) in C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\Program.cs:line 96
+2024-06-11 16:57:17.9243|ERROR|Microsoft.EntityFrameworkCore.Database.Connection|An error occurred using the connection to database 'main' on server 'c:\DyskD\SaleKioskStudent.db'.
+2024-06-11 16:57:17.9901|ERROR|SaleKiosk.WebAPI.Program|Stopped program because of exception|Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 14: 'unable to open database file'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteConnectionInternal..ctor(SqliteConnectionStringBuilder connectionOptions, SqliteConnectionPool pool)
+   at Microsoft.Data.Sqlite.SqliteConnectionPool.GetConnection()
+   at Microsoft.Data.Sqlite.SqliteConnectionFactory.GetConnection(SqliteConnection outerConnection)
+   at Microsoft.Data.Sqlite.SqliteConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Sqlite.Storage.Internal.SqliteDatabaseCreator.Create()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabaseCreator.EnsureCreated()
+   at SaleKiosk.Infrastructure.DataSeeder.Seed() in C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Infrastructure\DataSeeder.cs:line 17
+   at Program.<Main>$(String[] args) in C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.WebAPI\Program.cs:line 96

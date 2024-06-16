@@ -1,0 +1,43 @@
+﻿@page "/order/details/{id:int}"
+@inject IOrderService _orderService
+
+<h3>Order @_order.Id</h3>
+<RadzenStack Gap="0" Class="rz-text-truncate">
+    <RadzenText TextStyle="TextStyle.Overline" Class="rz-mt-2 rz-my-0" Style="color: var(--rz-text-tertiary-color);">Created At</RadzenText>
+    <RadzenText TextStyle="TextStyle.Body1" Class="rz-text-truncate"><b>@(_order.CreatedAt)</b></RadzenText>
+    <RadzenText TextStyle="TextStyle.Overline" Class="rz-mt-2 rz-my-0" Style="color: var(--rz-text-tertiary-color);">Status</RadzenText>
+    <RadzenText TextStyle="TextStyle.Body1" Class="rz-text-truncate"><b>@(_order.Status)</b></RadzenText>
+    <RadzenText TextStyle="TextStyle.Overline" Class="rz-mt-2 rz-my-0" Style="color: var(--rz-text-tertiary-color);">Total</RadzenText>
+    <RadzenText TextStyle="TextStyle.Body1" Class="rz-text-truncate"><b>@(_order.OrderTotal.ToString("c"))</b></RadzenText>
+</RadzenStack>
+
+<br/>
+<br/>
+<br/>
+<h4>Details</h4>
+<RadzenDataGrid AllowFiltering="true" AllowPaging="true" AllowSorting="true" FilterPopupRenderMode="PopupRenderMode.OnDemand" FilterCaseSensitivity="FilterCaseSensitivity.CaseInsensitive"
+                Data="@(_order.Details)" ColumnWidth="200px" Density="Density.Compact" AllowAlternatingRows="false">
+    <Columns>
+        <RadzenDataGridColumn Property="ProductName" Title="Name" />
+        <RadzenDataGridColumn Property="ProductPrice" Title="Price" />
+        <RadzenDataGridColumn Property="Count" Title="Count" />
+        <RadzenDataGridColumn Title="Amount">
+            <Template Context="detail">
+                @((detail.Count * detail.ProductPrice).ToString("c"))
+            </Template>
+        </RadzenDataGridColumn>
+    </Columns>
+</RadzenDataGrid>
+<br />
+
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+    private OrderDto _order = new();
+
+    protected override void OnInitialized()
+    {
+        _order = _orderService.GetByIdWithDetails(Id);
+    }
+}

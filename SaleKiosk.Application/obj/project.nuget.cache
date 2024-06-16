@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "NhC73v8kQNqO7++YfeE8PJfs/JQC3VWWJnvoX1Sm8Ba9nCKHYxPrObj9BzYJE3f1pj1lFNSh73U01qz1bbj7XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olaes\\Downloads\\Project_StayBook - kopia2\\Project_StayBook - kopia2\\SaleKiosk.Application\\SaleKiosk.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olaes\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\olaes\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\olaes\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\olaes\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\olaes\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\olaes\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\olaes\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\olaes\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\olaes\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\olaes\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\olaes\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\olaes\\.nuget\\packages\\nlog\\5.3.2\\nlog.5.3.2.nupkg.sha512",
+    "C:\\Users\\olaes\\.nuget\\packages\\nlog.extensions.logging\\5.3.10\\nlog.extensions.logging.5.3.10.nupkg.sha512",
+    "C:\\Users\\olaes\\.nuget\\packages\\nlog.web.aspnetcore\\5.3.10\\nlog.web.aspnetcore.5.3.10.nupkg.sha512",
+    "C:\\Users\\olaes\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\olaes\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

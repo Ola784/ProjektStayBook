@@ -1,0 +1,176 @@
+﻿@page "/review/edit/{id:int}"
+@inject IReviewService _reviewService
+@inject NavigationManager _navigationManager
+@inject IFileService _fileService
+
+<PageTitle>Edit review</PageTitle>
+<h1>Edit review</h1>
+
+<EditForm Model="@_review" OnValidSubmit="@UpdateReview">
+    <FluentValidationValidator @ref="_fluentValidationValidator" DisableAssemblyScanning="@true" />
+    <ValidationSummary />
+    <div class="form-group">
+        <label>Review: </label>
+        <InputText @bind-Value="@_review.ReviewText" class="form-control" />
+        <ValidationMessage For="@(() => _review.ReviewText)" />
+    </div>
+    <div class="form-group">
+        <label>Review rate (1-5): </label>
+        <InputNumber @bind-Value="@_review.Rate" class="form-control" />
+        <ValidationMessage For="@(() =>_review.Rate)" />
+    </div>
+
+    <br />
+    <div class="form-group">
+        <button class="btn btn-primary" type="submit"> <span class="oi oi-pencil"></span> Update </button>
+        <button @onclick="BackToList" class="btn btn-secondary" type="button">
+            <span class="oi oi-media-skip-backward"></span>
+            Back To List
+        </button>
+    </div>
+</EditForm>
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    private FluentValidationValidator? _fluentValidationValidator;
+
+    private UpdateReviewDto _review = null;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        var h = _reviewService.GetById(Id);
+        _review = new UpdateReviewDto() { Id = h.Id, Rate=h.Rate, ReviewText=h.ReviewText };
+    }
+
+    private void UpdateReview()
+    {
+        _reviewService.Update(_review);
+        _navigationManager.NavigateTo("/review");
+    }
+
+    private void BackToList()
+    {
+        _navigationManager.NavigateTo("/review");
+    }
+}
+
+@*@page "/hotel/edit/{id:int}"
+@inject IHotelService _hotelService
+@inject NavigationManager _navigationManager
+
+<PageTitle>Edit hotel</PageTitle>
+<h1>Edit hotel</h1>
+
+<EditForm Model="@_hotel" OnValidSubmit="@UpdateHotel">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <div class="form-group">
+        <label>Name: </label>
+        <InputText @bind-Value="@_hotel.Name" class="form-control" />
+        <ValidationMessage For="@(() => _hotel.Name)" />
+    </div>
+    <div class="form-group">
+        <label>Description: </label>
+        <InputText @bind-Value="@_hotel.Desc" class="form-control" />
+        <ValidationMessage For="@(() => _hotel.Desc)" />
+    </div>
+    <div class="form-group">
+        <label>Price: </label>
+        <InputNumber @bind-Value="@_hotel.UnitPrice" class="form-control" />
+        <ValidationMessage For="@(() => _hotel.UnitPrice)" />
+    </div>
+    <br />
+    <div class="form-group">
+        <button class="btn btn-primary" type="submit"> <span class="oi oi-pencil"></span> Update </button>
+        <button @onclick="BackToList" class="btn btn-secondary" type="button">
+            <span class="oi oi-media-skip-backward"></span>
+             Back To List
+         </button>
+    </div>
+</EditForm>
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    private UpdateHotelDto _hotel = null;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        var h = _hotelService.GetById(Id);
+        _hotel = new UpdateHotelDto() { Id = h.Id, Name = h.Name, Desc = h.Description, UnitPrice = h.UnitPrice };
+    }
+
+    private void UpdateHotel()
+    {
+        _productService.Update(_hotel);
+        _navigationManager.NavigateTo("/hotel");
+    }
+
+    private void BackToList()
+    {
+        _navigationManager.NavigateTo("/hotel");
+    }
+}
+
+*@@*@page "/hotel/edit/{id:int}"
+@inject IHotelService _hotelService
+@inject NavigationManager _navigationManager
+
+<PageTitle>Edit hotel</PageTitle>
+<h1>Edit hotel</h1>
+
+<EditForm Model="@_hotel" OnSubmit="@UpdateHotel">
+    <div class="form-group">
+        <label>Name: </label>
+        <InputText @bind-Value="@_hotel.Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Description: </label>
+        <InputText @bind-Value="@_hotel.Desc" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Price: </label>
+        <InputNumber @bind-Value="@_hotel.UnitPrice" class="form-control" />
+    </div>
+    <br />
+    <div class="form-group">
+        <button class="btn btn-primary" type="submit"> <span class="oi oi-pencil"></span> Update </button>
+        <button @onclick="BackToList" class="btn btn-secondary" type="button">
+            <span class="oi oi-media-skip-backward" />
+             Back To List
+        </button>
+    </div>
+</EditForm>
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    private UpdateHotelDto _hotel = null;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        var h = _hotelService.GetById(Id);
+        _hotel = new UpdateHotelDto() { Id = h.Id, Name = h.Name, Desc = h.Description, UnitPrice = h.UnitPrice };
+    }
+
+    private void UpdateHotel()
+    {
+        _hotelService.Update(_hotel);
+        _navigationManager.NavigateTo("/hotel");
+    }
+
+    private void BackToList()
+    {
+        _navigationManager.NavigateTo("/hotel");
+    }
+}*@
+
+
+

@@ -1,0 +1,281 @@
+﻿@page "/user"
+@inject IUserService _userService
+@inject NavigationManager _navigationManager
+@inject IJSRuntime _js
+
+<PageTitle>User list</PageTitle>
+
+<h1>User list</h1>
+<br/>
+<div>
+    <div>
+        <a href="user/create" class="btn bg-primary"><span class="oi oi-plus" aria-hidden="true"></span> Add new user </a>
+    </div>
+    <br />
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Image</th>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Username</th>
+                    <th>Email</th>
+                    <th>Phone Number</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var u in _userList)
+                {
+                    <tr>
+                        <td>
+                            <img src="@u.ImageUrl" width="64">
+                        </td>
+                        <td>@u.FirstName</td>
+                        <td>@u.LastName</td>
+                        <td>@u.Username</td>
+                        <td>@u.Email</td>
+                        <td>@u.PhoneNumber</td>
+                        <td>
+                            <button class="btn bg-warning" @onclick="@(()=>UpdateUser(@u.Id))"><span class="oi oi-pencil" aria-hidden="true"></span> Edit </button>
+                            <button class="btn bg-danger" @onclick="@(()=>DeleteUser(@u.Id))"><span class="oi oi-delete" aria-hidden="true"></span> Delete </button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@code {
+    private List<UserDto> _userList = null;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        _userList = _userService.GetAll();
+    }
+
+    protected async Task DeleteUser(int id)
+    {
+        var user = _userList.First(q => q.Id == id);
+        var confirm = await _js.InvokeAsync<bool>("confirm", $"Are You Sure You Want To Delete {user.Username}?");
+        if (confirm)
+        {
+            _userService.Delete(id);
+            OnInitialized();
+        }
+    }
+
+    protected void UpdateUser(int id)
+    {
+        _navigationManager.NavigateTo($"user/edit/{id}");
+    }
+}
+
+
+
+@*@page "/product"
+@inject IProductService _productService
+@inject IJSRuntime _js
+
+<PageTitle>Product list</PageTitle>
+<h1>Product list</h1>
+    
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in ProductList)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Description</td>
+                    <td>@p.UnitPrice</td>
+                    <td>
+                        <button class="btn bg-danger" @onclick="()=>DeleteProduct(p.Id)"> Delete </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+@code {
+    private List<ProductDto> ProductList = null;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        ProductList = _productService.GetAll();
+    }
+
+    protected async Task DeleteProduct(int id)
+    {
+        var product = ProductList.First(q => q.Id == id);
+        var confirm = await _js.InvokeAsync<bool>("confirm", $"Are You Sure You Want To Delete {product.Name}?");
+        if (confirm)
+        {
+            _productService.Delete(id);
+            OnInitialized();
+        }
+    }
+}
+*@
+
+@*@page "/product"
+@inject IProductService _productService
+
+<PageTitle>Product list</PageTitle>
+<h1>Product list</h1>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in ProductList)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Description</td>
+                    <td>@p.UnitPrice</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+@code {
+    private List<ProductDto> ProductList = null;
+    
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        ProductList = _productService.GetAll();
+    }
+}
+*@
+
+
+
+
+
+
+@*@page "/product"
+@inject IProductService ProductService
+
+<PageTitle>Product</PageTitle>
+<h1>Product</h1>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in ProductList)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Description</td>
+                    <td>@p.UnitPrice</td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>
+
+@code {
+    private List<ProductDto> ProductList;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        ProductList = ProductService.GetAll();
+    }
+}*@
+
+
+
+
+@*@page "/product"
+
+<PageTitle>Product</PageTitle>
+<h1>Product</h1>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var p in ProductList)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Description</td>
+                    <td>@p.UnitPrice</td>
+                </tr>
+            }
+        </tbody>
+        
+    </table>
+</div>
+
+@code {
+    public List<ProductDto> ProductList = new List<ProductDto>()
+    {
+        new ProductDto()
+        {
+            Name = "Kawa",
+            Description = "Czarna kawa",
+            UnitPrice = 2m
+        },
+        new ProductDto()
+        {
+            Name = "Herbata",
+            Description = "Pyszna herbata",
+            UnitPrice = 4m
+        }
+    };
+
+    public ProductDto MyProduct = new ProductDto()
+        {
+            Name = "Kawa",
+            Description = "Czarna kawa",
+            UnitPrice = 2m
+        };
+
+    public class ProductDto
+    {
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public decimal UnitPrice { get; set; }
+    }
+}
+*@

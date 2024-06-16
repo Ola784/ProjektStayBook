@@ -1,0 +1,63 @@
+﻿@page "/hotel"
+@inject IHotelService _hotelService
+@inject ICartService _cartService
+@inject NotificationService _notificationService
+
+<PageTitle>Hotel list</PageTitle>
+
+<h3>Hotel list</h3>
+
+<div class="row">
+    @foreach (var h in _hotelList)
+    {
+        <div class="card m-2" style="width: 18rem;">
+            <EditForm Model="@h">
+                <img class="card-img-top" src=@h.ImageUrl alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">@h.Name</h5>
+                    <h class="card-text">@h.Description</h>
+                    <h class="card-text">@h.UnitPrice.ToString("c")</h>
+                    <h> <InputNumber @bind-Value="@h.Count"></InputNumber> </h>
+                    <h> <button class="btn btn-primary" type="submit" onclick="@(() => AddToShoppingCart(@h))">Add to cart</button> </h>
+                </div>
+            </EditForm>
+            <a href="review/create?hotelId=@h.Id" class="btn bg-primary"><span class="oi oi-plus" aria-hidden="true"></span>Add your review </a>
+        </div>
+    }
+</div>
+
+@code {
+    public int Count { get; set; } = 1;
+
+    private IEnumerable<HotelDto> _hotelList = new List<HotelDto>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        _hotelList = await _hotelService.GetAll();
+    }
+
+    private async Task AddToShoppingCart(HotelDto h)
+    {
+        CartItem cartItem = new CartItem()
+            {
+                Hotel = h,
+                Count = h.Count,
+            };
+
+        await _cartService.Increment(cartItem);
+        Count = 1;
+        var notificationMessage = new NotificationMessage
+            {
+                Severity = NotificationSeverity.Info,
+                Summary = "Info",
+                Detail = "Dodałeś przedmiot do koszyka",
+                Duration = 4000,
+                CloseOnClick = true,
+                Payload = DateTime.Now
+            };
+
+        _notificationService.Notify(notificationMessage);
+
+        h.Count = 1;
+    }
+}

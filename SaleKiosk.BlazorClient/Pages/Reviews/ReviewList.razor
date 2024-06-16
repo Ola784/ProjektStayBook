@@ -1,0 +1,45 @@
+﻿@page "/review"
+@inject IReviewService _reviewService
+@inject NavigationManager _navigationManager
+@inject IJSRuntime _js
+
+<PageTitle>Review list</PageTitle>
+
+<h3>Review list</h3>
+<br />
+<div>
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Accomodation</th>
+                    <th>Author</th>
+                    <th>Review</th>
+                    <th>Rate (1-5)</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var h in _reviewList)
+                {
+                    <tr>
+                        <td>@h.HotelName</td>
+                        <td>@h.UserName</td>
+                        <td>@h.ReviewText</td>
+                        <td>@h.Rate</td>
+                        <td>@h.CreatedAt</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@code {
+    private IEnumerable<ReviewDto> _reviewList = new List<ReviewDto>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        _reviewList = await _reviewService.GetAll();
+    }
+}

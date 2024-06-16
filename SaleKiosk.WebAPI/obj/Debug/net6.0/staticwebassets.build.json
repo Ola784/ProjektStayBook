@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4P/W5xHEo4s1NZUY3GWs5PWOUjUm3dxYpmjO2/tgb1w=",
+  "Source": "SaleKiosk.WebAPI",
+  "BasePath": "_content/SaleKiosk.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,235 @@
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.deps.json
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.AssemblyReference.cache
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfoInputs.cache
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfo.cs
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CoreCompileInputs.cache
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CopyComplete
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Application\obj\Debug\net6.0\refint\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw8_SaleKiosk_CleanArchitecture\SaleKiosk\SaleKiosk.Application\obj\Debug\net6.0\ref\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.deps.json
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.AssemblyReference.cache
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfoInputs.cache
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfo.cs
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CoreCompileInputs.cache
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CopyComplete
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.Application\obj\Debug\net6.0\refint\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw9_SaleKiosk_BlazorServer\SaleKiosk_BlazorServer_Completed\SaleKiosk.Application\obj\Debug\net6.0\ref\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw10_SaleKiosk_BlazorServer_ProductUpsert\SaleKiosk_BlazorServer_Product_Upsert_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.deps.json
+C:\DyskD\TMP\Cw10_SaleKiosk_BlazorServer_ProductUpsert\SaleKiosk_BlazorServer_Product_Upsert_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw10_SaleKiosk_BlazorServer_ProductUpsert\SaleKiosk_BlazorServer_Product_Upsert_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw10_SaleKiosk_BlazorServer_ProductUpsert\SaleKiosk_BlazorServer_Product_Upsert_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\DyskD\TMP\Cw10_SaleKiosk_BlazorServer_ProductUpsert\SaleKiosk_BlazorServer_Product_Upsert_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\DyskD\TMP\Cw10_SaleKiosk_BlazorServer_ProductUpsert\SaleKiosk_BlazorServer_Product_Upsert_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.AssemblyReference.cache
+C:\DyskD\TMP\Cw10_SaleKiosk_BlazorServer_ProductUpsert\SaleKiosk_BlazorServer_Product_Upsert_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DyskD\TMP\Cw10_SaleKiosk_BlazorServer_ProductUpsert\SaleKiosk_BlazorServer_Product_Upsert_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfoInputs.cache
+C:\DyskD\TMP\Cw10_SaleKiosk_BlazorServer_ProductUpsert\SaleKiosk_BlazorServer_Product_Upsert_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfo.cs
+C:\DyskD\TMP\Cw10_SaleKiosk_BlazorServer_ProductUpsert\SaleKiosk_BlazorServer_Product_Upsert_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CoreCompileInputs.cache
+C:\DyskD\TMP\Cw10_SaleKiosk_BlazorServer_ProductUpsert\SaleKiosk_BlazorServer_Product_Upsert_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CopyComplete
+C:\DyskD\TMP\Cw10_SaleKiosk_BlazorServer_ProductUpsert\SaleKiosk_BlazorServer_Product_Upsert_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw10_SaleKiosk_BlazorServer_ProductUpsert\SaleKiosk_BlazorServer_Product_Upsert_Completed\SaleKiosk.Application\obj\Debug\net6.0\refint\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw10_SaleKiosk_BlazorServer_ProductUpsert\SaleKiosk_BlazorServer_Product_Upsert_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw10_SaleKiosk_BlazorServer_ProductUpsert\SaleKiosk_BlazorServer_Product_Upsert_Completed\SaleKiosk.Application\obj\Debug\net6.0\ref\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.deps.json
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.AssemblyReference.cache
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfoInputs.cache
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfo.cs
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CoreCompileInputs.cache
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CopyComplete
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList\SaleKiosk.Application\obj\Debug\net6.0\refint\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList\SaleKiosk.Application\obj\Debug\net6.0\ref\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.deps.json
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.AssemblyReference.cache
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfoInputs.cache
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfo.cs
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CoreCompileInputs.cache
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CopyComplete
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\obj\Debug\net6.0\refint\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\obj\Debug\net6.0\ref\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\DyskD\TMP\Cw11_SaleKiosk_BlazorClient_ProductList\SaleKiosk_BlazorClient_ProductList_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.deps.json
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.AssemblyReference.cache
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfoInputs.cache
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfo.cs
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CoreCompileInputs.cache
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CopyComplete
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\obj\Debug\net6.0\refint\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw12_SaleKiosk_BlazorClient_ShoppingCart\SaleKiosk_BlazorClient_ShoppingCart_Completed\SaleKiosk.Application\obj\Debug\net6.0\ref\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.deps.json
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.AssemblyReference.cache
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfoInputs.cache
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfo.cs
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CoreCompileInputs.cache
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CopyComplete
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\obj\Debug\net6.0\refint\SaleKiosk.Application.dll
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.pdb
+C:\DyskD\TMP\Cw13_SaleKiosk_UI_Library\SaleKiosk_BlazorClient_UI_Library_Completed\SaleKiosk.Application\obj\Debug\net6.0\ref\SaleKiosk.Application.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.deps.json
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.AssemblyReference.cache
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfoInputs.cache
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfo.cs
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CoreCompileInputs.cache
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.sourcelink.json
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CopyComplete
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\obj\Debug\net6.0\refint\SaleKiosk.Application.dll
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\olaes\Downloads\SaleKiosk_Order_Completed\SaleKiosk.Application\obj\Debug\net6.0\ref\SaleKiosk.Application.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.deps.json
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.sourcelink.json
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CopyComplete
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\obj\Debug\net6.0\refint\SaleKiosk.Application.dll
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\user\Source\Repos\Project_StayBook\SaleKiosk.Application\obj\Debug\net6.0\ref\SaleKiosk.Application.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.deps.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.AssemblyReference.cache
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfoInputs.cache
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfo.cs
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CoreCompileInputs.cache
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.sourcelink.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CopyComplete
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\refint\SaleKiosk.Application.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\ref\SaleKiosk.Application.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.deps.json
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfo.cs
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.sourcelink.json
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CopyComplete
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\refint\SaleKiosk.Application.dll
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia\Project_StayBook - kopia\SaleKiosk.Application\obj\Debug\net6.0\ref\SaleKiosk.Application.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.deps.json
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfo.cs
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CopyComplete
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\refint\SaleKiosk.Application.dll
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\user\Downloads\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\ref\SaleKiosk.Application.dll
+C:\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.deps.json
+C:\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.AssemblyReference.cache
+C:\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfoInputs.cache
+C:\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfo.cs
+C:\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CoreCompileInputs.cache
+C:\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CopyComplete
+C:\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.dll
+C:\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\refint\SaleKiosk.Application.dll
+C:\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\ref\SaleKiosk.Application.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.deps.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.Domain.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\bin\Debug\net6.0\SaleKiosk.SharedKernel.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.AssemblyReference.cache
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfoInputs.cache
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.AssemblyInfo.cs
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CoreCompileInputs.cache
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.sourcelink.json
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.csproj.CopyComplete
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\refint\SaleKiosk.Application.dll
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\SaleKiosk.Application.pdb
+C:\Users\olaes\Downloads\Project_StayBook - kopia2\Project_StayBook - kopia2\SaleKiosk.Application\obj\Debug\net6.0\ref\SaleKiosk.Application.dll

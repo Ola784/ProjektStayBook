@@ -1,0 +1,277 @@
+﻿@page "/review"
+@inject IReviewService _reviewService
+@inject NavigationManager _navigationManager
+@inject IJSRuntime _js
+
+<PageTitle>Review list</PageTitle>
+
+<h1>Review list</h1>
+<br />
+<div>
+    <div>
+        <a href="review/create" class="btn bg-primary"><span class="oi oi-plus" aria-hidden="true"></span> Create new review </a>
+    </div>
+    <br />
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Accomodation</th>
+                    <th>Author</th>
+                    <th>Review</th>
+                    <th>Rate (1-5)</th>
+                    <th>Date</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var h in _reviewList)
+                {
+                    <tr>
+                        <td>@h.HotelName</td>
+                        <td>@h.UserName</td>
+                        <td>@h.ReviewText</td>
+                        <td>@h.Rate</td>
+                        <td>@h.CreatedAt</td>
+                        <td>
+                            <button class="btn bg-warning" @onclick="@(()=>UpdateReview(@h.Id))"><span class="oi oi-pencil" aria-hidden="true"></span> Edit </button>
+                            <button class="btn bg-danger" @onclick="@(()=>DeleteReview(@h.Id))"><span class="oi oi-delete" aria-hidden="true"></span> Delete </button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@code {
+    private List<ReviewDto> _reviewList = null;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        _reviewList = _reviewService.GetAll();
+    }
+
+    protected async Task DeleteReview(int id)
+    {
+        var hotel = _reviewList.First(q => q.Id == id);
+        var confirm = await _js.InvokeAsync<bool>("confirm", "Are You Sure You Want To Delete this review?");
+        if (confirm)
+        {
+            _reviewService.Delete(id);
+            OnInitialized();
+        }
+    }
+
+    protected void UpdateReview(int id)
+    {
+        _navigationManager.NavigateTo($"review/edit/{id}");
+    }
+}
+
+
+
+@*@page "/hotel"
+@inject IHotelService _hotelService
+@inject IJSRuntime _js
+
+<PageTitle>Hotel list</PageTitle>
+<h1>Hotel list</h1>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var h in HotelList)
+            {
+                <tr>
+                    <td>@h.Name</td>
+                    <td>@h.Description</td>
+                    <td>@h.UnitPrice</td>
+                    <td>
+                        <button class="btn bg-danger" @onclick="()=>DeleteHotel(h.Id)"> Delete </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+@code {
+    private List<HotelDto> HotelList = null;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        HotelList = _hotelService.GetAll();
+    }
+
+    protected async Task DeleteHotel(int id)
+    {
+        var hotel = HotelList.First(q => q.Id == id);
+        var confirm = await _js.InvokeAsync<bool>("confirm", $"Are You Sure You Want To Delete {hotel.Name}?");
+        if (confirm)
+        {
+            _hotelService.Delete(id);
+            OnInitialized();
+        }
+    }
+}
+*@
+
+@*@page "/hotel"
+@inject IHotelService _hotelService
+
+<PageTitle>Hotel list</PageTitle>
+<h1>Hotel list</h1>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var h in HotelList)
+            {
+                <tr>
+                    <td>@h.Name</td>
+                    <td>@h.Description</td>
+                    <td>@h.UnitPrice</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+@code {
+    private List<HotelDto> HotelList = null;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        HotelList = _hotelService.GetAll();
+    }
+}
+*@
+
+
+
+
+
+
+@*@page "/hotel"
+@inject IHotelService HotelService
+
+<PageTitle>Hotel</PageTitle>
+<h1>Hotel</h1>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var h in HotelList)
+            {
+                <tr>
+                    <td>@h.Name</td>
+                    <td>@h.Description</td>
+                    <td>@h.UnitPrice</td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>
+
+@code {
+    private List<HotelDto> HotelList;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        HotelList = HotelService.GetAll();
+    }
+}*@
+
+
+
+
+@*@page "/hotel"
+
+<PageTitle>Hotel</PageTitle>
+<h1>Hotel</h1>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var h in HotelList)
+            {
+                <tr>
+                    <td>@h.Name</td>
+                    <td>@h.Description</td>
+                    <td>@h.UnitPrice</td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>
+
+@code {
+    public List<HotelDto> HotelList = new List<HotelDto>()
+    {
+        new HotelDto()
+        {
+            Name = "Marriott",
+            Description = "5 gwiazdkowy",
+            UnitPrice = 600m
+        },
+        new HotelDto()
+        {
+            Name = "Hilton",
+            Description = "4 gwiazdkowy",
+            UnitPrice = 400m
+        }
+    };
+
+    public HotelDto MyHotel = new HotelDto()
+        {
+            Name = "Marriott",
+            Description = "5 gwiazdkowy",
+            UnitPrice = 600m
+        };
+
+    public class HotelDto
+    {
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public decimal UnitPrice { get; set; }
+    }
+}
+*@
